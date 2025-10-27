@@ -1,0 +1,23 @@
+body{
+    background-image: url(img/sfondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+#result{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bold;
+    height: 210px;
+    width: 610px;
+    margin-top: 250px;
+    margin-left: 450px;
+    border:solid;
+    border-radius:8px;
+    border-color: black;
+    background-color:#EFDAAB;
+
+}
